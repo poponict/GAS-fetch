@@ -1,2 +1,2 @@
-GASのURL,GoogleフォームのURLは消しています。
+GASのURL,GoogleフォームのURLなどは消しています。
 もし作りたい場合は自分でやってください
