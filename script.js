@@ -1,6 +1,6 @@
 function GAScontact(){
   fetch(
-      "https://script.google.com/macros/s/AKfycbzYLynt5VvjsU3QUq3ZAY1_GbTQfvgoDxALNGF0acE1GpddWWiuz9c3pKIp2ZGRwkpFOA/exec",
+      "***GASURL***",
       {
         method: "GET"
       }
