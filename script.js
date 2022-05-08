@@ -1,6 +1,6 @@
 function GAScontact(){
   fetch(
-      "***GASURL***",
+      "***GAS DebroyURL***",
       {
         method: "GET"
       }
